@@ -1,3 +1,4 @@
+
 # Play-Drum-Kit
 
 ## [Click Here to Play the Game](https://amankumarsinhagithub.github.io/Play-Drum-Kit/)
@@ -8,7 +9,7 @@ This is a simple drum kit web application that allows users to play drum sounds 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/AmanKumarSinhaGitHub/Play-Drum-Kit.git
    ```
 
 2. **Open the HTML File:**
@@ -24,4 +25,6 @@ This is a simple drum kit web application that allows users to play drum sounds 
 - **styles.css:** CSS file for styling the drum kit.
 - **script.js:** JavaScript file containing the functionality of the drum kit.
 - **sounds/:** Folder containing audio files for different drum sounds.
+- **images/:** Folder containing images used in the project.
 
+## Thank You
